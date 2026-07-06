@@ -1,0 +1,7 @@
+config.local.php
+prototype-data/
+*.class
+*.log
+*.tmp
+vendor/
+node_modules/
